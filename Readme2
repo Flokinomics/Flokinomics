@@ -1,0 +1,19 @@
+An elastic supply (or rebase) token works in a way that the
+circulating supply expands or contracts due to changes in
+token price. This increase or decrease in supply works with a
+mechanism called re-basing. When a rebase occurs, the
+supply of the token is increased or decreased algorithmically,
+based on the current price of each token. In some ways,
+elastic supply tokens can be paralleled with stable coins. They
+aim to achieve a target price, and these re-base mechanics
+facilitate that. However, the key difference is that rebasing
+tokens aim to achieve it with a changing (elastic) supply.
+FLOKINOMICS differs by having an increasing peg price, an
+upcoming. Supply-elastic tokens work differently. As
+mentioned, the re-basing mechanism adjusts the token
+circulating supply periodically. Let’s say we have an elastic
+supply token that aims to achieve a value of 1 USD. If the
+price is above 1 USD, the re-base increases the current
+supply, reducing the value of each token. Conversely, if the
+price is below 1 USD, the re-base will decrease the supply,
+making each token worth more.
